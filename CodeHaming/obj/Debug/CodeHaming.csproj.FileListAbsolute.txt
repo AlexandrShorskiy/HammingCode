@@ -1,0 +1,9 @@
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Lab4_TiK\CodeHaming\bin\Debug\CodeHaming.exe.config
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Lab4_TiK\CodeHaming\bin\Debug\CodeHaming.exe
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Lab4_TiK\CodeHaming\bin\Debug\CodeHaming.pdb
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Lab4_TiK\CodeHaming\obj\Debug\CodeHaming.Form1.resources
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Lab4_TiK\CodeHaming\obj\Debug\CodeHaming.Properties.Resources.resources
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Lab4_TiK\CodeHaming\obj\Debug\CodeHaming.csproj.GenerateResource.Cache
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Lab4_TiK\CodeHaming\obj\Debug\CodeHaming.exe
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Lab4_TiK\CodeHaming\obj\Debug\CodeHaming.pdb
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Lab4_TiK\CodeHaming\obj\Debug\CodeHaming.csprojResolveAssemblyReference.cache
